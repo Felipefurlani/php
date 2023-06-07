@@ -13,6 +13,7 @@
     <form method="post">
         RA:<br>
         <input type="text" size="10" name="ra">
+        <br>
         <input type="submit" value="Consultar">
         <hr>
     </form>
